@@ -35,6 +35,8 @@
 #include <mysql/mysql.h>
 #include <boost/thread.hpp>
 
+typedef bool my_bool;
+
 //
 // CGHostDBMySQL
 //
